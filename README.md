@@ -1,5 +1,6 @@
 # Sons Of The Forest ModPack
 Best mods in one pack without modloader installation
+(Direct Installation)
 
 
 Supported mods:
