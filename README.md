@@ -15,7 +15,7 @@ Supported mods:
 - [Warps](https://thunderstore.io/c/sons-of-the-forest/p/Fang86/Warps/) - By Fang86
 
 
-Software - Manuel download and install
+Extras - This is a part to create and edit mods
 
 - [SOTF SavegameEditor](https://www.nexusmods.com/sonsoftheforest/mods/34?tab=description) - By Ausbrecher
 - [Unity Editor](https://github.com/sinai-dev/UnityExplorer#unity-editor) - By [Sinai](https://github.com/sinai-dev)
