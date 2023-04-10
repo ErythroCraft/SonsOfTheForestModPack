@@ -1,7 +1,6 @@
 # Sons Of The Forest ModPack
 Best mods in one pack without modloader installation
 
-Read the [WIKI](https://github.com/ErythroCraft/SonsOfTheForestModPack/wiki) for all instructions about this modpack
 
 Supported mods:
 
@@ -20,4 +19,9 @@ Software - Manuel download and install
 - [SOTF SavegameEditor](https://www.nexusmods.com/sonsoftheforest/mods/34?tab=description) - By Ausbrecher
 - [Unity Editor](https://github.com/sinai-dev/UnityExplorer#unity-editor) - By [Sinai](https://github.com/sinai-dev)
 
+
 Read the [WIKI](https://github.com/ErythroCraft/SonsOfTheForestModPack/wiki) for all instructions anout this modpack
+
+
+
+Good play
