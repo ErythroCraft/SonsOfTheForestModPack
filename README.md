@@ -1,4 +1,4 @@
-# SonsOfTheForestModPack
+# Sons Of The Forest ModPack
 Best mods in one pack without modloader installation
 
 Read the [WIKI](https://github.com/ErythroCraft/SonsOfTheForestModPack/wiki) for all instructions about this modpack
