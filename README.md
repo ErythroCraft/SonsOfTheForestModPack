@@ -2,6 +2,7 @@
 Best mods in one pack without modloader installation
 (Direct Installation)
 
+Compatibility version: Sons of The Forest - Patch 4
 
 Supported mods:
 
